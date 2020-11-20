@@ -1,0 +1,1 @@
+Simple react receipt. With a calculator that calculates a receipt with the sum of all goods.
